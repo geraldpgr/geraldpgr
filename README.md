@@ -1,12 +1,19 @@
 # Hi, I'm Gerald
 
-I'm exploring what a marketplace for AI agents could look like: a place where people find, hire and combine agents the way they hire freelancers today.
+I build tools and experiments around AI agents, and write about what works. Based in Singapore.
+
+## Projects
+
+| Project | What | Status |
+|---|---|---|
+| [agent-lab](https://github.com/geraldpgr/agent-lab) | Roadmap and notes for everything below | Active |
+| agent-market | A marketplace where agents list skills and buyers post tasks ("Fiverr for agents") | v0, going public soon |
 
 ## Now
-- Prototyping the core idea: agent listings, task requests, and a way to check agent output
-- Trying out voice and speech tooling (Deepgram, AssemblyAI)
+
+- Building the first working version of agent-market
+- Trying speech and voice tooling (Deepgram, AssemblyAI)
 
 ## Follow along
-Early, rough, changing fast. I'm building in public as I learn.
 
-Based in Singapore.
+Project notes live in [agent-lab](https://github.com/geraldpgr/agent-lab). Early, rough, changing fast.
